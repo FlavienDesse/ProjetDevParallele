@@ -55,7 +55,7 @@ class DirectoryManager:
             self.to_remove_from_dict = []
 
             # search for an eventual updates of files in the root directory
-            self.ftp.connect()
+
             self.search_updates(self.root_directory)
 
             # look for any removals of files / directories
@@ -72,8 +72,8 @@ class DirectoryManager:
 
             for thread in self.all_thread:
                 thread.join()
-            print("----- %s seconds ------" % (time.time() - start_time))
-            self.ftp.disconnect()
+            print("----- %.4f seconds ------" % (time.time() - start_time))
+
             # wait before next synchronization
             time.sleep(frequency)
 
@@ -98,11 +98,9 @@ class DirectoryManager:
                         # create it on FTP server
                         split_path = folder_path.split(self.root_directory)
                         srv_full_path = '{}{}'.format(self.ftp.directory, split_path[1])
-                        directory_split = srv_full_path.rsplit(os.path.sep, 1)[0]
-                        print(directory_split)
-                        if not self.ftp.if_exist(srv_full_path, self.ftp.get_folder_content(directory_split)):
-                            # add this directory to the FTP server
-                            self.listAllThingModified.insert(0, ("directory", "create", srv_full_path))
+                        #directory_split = srv_full_path.rsplit(os.path.sep, 1)[0]
+                        self.listAllThingModified.insert(0, ("directory", "create", srv_full_path))
+
 
             for file_name in files:
                 file_path = os.path.join(path_file, file_name)
@@ -153,7 +151,7 @@ class DirectoryManager:
                     split_path = removed_path.split(self.root_directory)
                     srv_full_path = '{}{}'.format(self.ftp.directory, split_path[1])
                     # self.ftp.remove_file(srv_full_path)
-                    self.listAllThingModified.append(("file", "delete", srv_full_path))
+                    self.listAllThingModified.insert(0,("file", "delete", srv_full_path))
                     self.to_remove_from_dict.append(removed_path)
 
                 elif isinstance(self.synchronize_dict[removed_path], Directory):

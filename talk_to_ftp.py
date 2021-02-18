@@ -29,8 +29,11 @@ class TalkToFTP:
         self.ftp.cwd(folder_path)
 
     def create_folder(self, folder):
-        self.ftp.mkd(folder)
-        Logger.log_info("Folder created : " + folder)
+        try:
+            self.ftp.mkd(folder)
+            Logger.log_info("Folder created : " + folder)
+        except:
+            pass
 
     def remove_folder(self, folder):
         self.ftp.rmd(folder)
@@ -47,11 +50,16 @@ class TalkToFTP:
         Logger.log_info("File removed : %s" + file)
 
     def get_folder_content(self, path):
-        init_list = self.ftp.nlst(path)
-        new_list = []
-        for path in init_list:
-            new_list.append(path.replace("\\", os.path.sep).replace("/", os.path.sep))
-        return new_list
+        init_list = []
+        try :
+            init_list = self.ftp.nlst(path)
+            new_list = []
+            for path in init_list:
+                new_list.append(path.replace("\\", os.path.sep).replace("/", os.path.sep))
+            return new_list
+        except:
+            pass       
+        return init_list
 
     def if_exist(self, element, list):
         if element in list:

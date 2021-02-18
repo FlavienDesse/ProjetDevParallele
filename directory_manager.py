@@ -23,7 +23,7 @@ class DirectoryManager:
         self.os_separator_count = len(directory.split(os.path.sep))
         # list of the path explored for each synchronization
         self.paths_explored = []
-
+        self.listAllThingModified = []
         # list of all thread
         self.all_thread = []
 
@@ -47,17 +47,19 @@ class DirectoryManager:
         while True:
             # init the path explored to an empty list before each synchronization
             self.paths_explored = []
-            self.listAllThingModified=[]
+            self.listAllThingModified = []
+            self.all_thread = []
             # init to an empty list for each synchronization
             self.to_remove_from_dict = []
 
             # search for an eventual updates of files in the root directory
-            self.ftp.connect()
+
             self.search_updates(self.root_directory)
 
             # look for any removals of files / directories
-            self.any_removals()
-            self.ftp.disconnect()
+            #self.any_removals()
+
+            start_time = time.time()
 
             lock = threading.Lock()
             for thread in range(self.nb_multi):
@@ -68,7 +70,7 @@ class DirectoryManager:
 
             for thread in self.all_thread:
                 thread.join()
-
+            print("----- %s seconds ------" % (time.time() - start_time))
 
             # wait before next synchronization
             time.sleep(frequency)
@@ -76,9 +78,7 @@ class DirectoryManager:
     def search_updates(self, directory):
         # scan recursively all files & directories in the root directory
 
-
         for path_file, dirs, files in os.walk(directory):
-
 
             for dir_name in dirs:
                 folder_path = os.path.join(path_file, dir_name)
@@ -119,7 +119,8 @@ class DirectoryManager:
                             split_path = file_path.split(self.root_directory)
                             srv_full_path = '{}{}'.format(self.ftp.directory, split_path[1])
 
-                            self.listAllThingModified.append(("file", "deleteAndCreate", path_file, srv_full_path, file_name))
+                            self.listAllThingModified.append(
+                                ("file", "deleteAndCreate", path_file, srv_full_path, file_name))
 
                     else:
 
@@ -129,9 +130,6 @@ class DirectoryManager:
                         srv_full_path = '{}{}'.format(self.ftp.directory, split_path[1])
                         self.listAllThingModified.append(("file", "create", path_file, srv_full_path, file_name))
                         # add this file on the FTP server
-
-
-
 
     def any_removals(self):
         # if the length of the files & folders to synchronize == number of path explored
@@ -158,6 +156,7 @@ class DirectoryManager:
                     split_path = removed_path.split(self.root_directory)
                     srv_full_path = '{}{}'.format(self.ftp.directory, split_path[1])
                     self.to_remove_from_dict.append(removed_path)
+                    # self.listAllThingModified.append(("file", "create", path_file, srv_full_path, file_name))
                     # if it's a directory, we need to delete all the files and directories he contains
                     self.remove_all_in_directory(removed_path, srv_full_path, path_removed_list)
 

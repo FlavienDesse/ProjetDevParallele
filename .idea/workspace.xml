@@ -54,19 +54,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ProjetDevParallele" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +96,9 @@
       <option name="presentableId" value="Default" />
       <updated>1613634216758</updated>
       <workItem from="1613634222557" duration="3005000" />
-      <workItem from="1613637265992" duration="4529000" />
+      <workItem from="1613637265992" duration="9058000" />
+      <workItem from="1613646510715" duration="436000" />
+      <workItem from="1613647260520" duration="1488000" />
     </task>
     <servers />
   </component>
@@ -121,10 +110,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1613637114910" />
-    <state x="249" y="349" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613637537929">
+    <state x="249" y="349" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613648583426">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="249" y="349" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613637537929" />
+    <state x="249" y="349" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613648583426" />
     <state x="676" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613636642043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -133,22 +122,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613634250947" />
-    <state width="1877" height="298" key="GridCell.Tab.0.bottom" timestamp="1613640925975">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1613648756192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613640925975" />
-    <state width="1877" height="298" key="GridCell.Tab.0.center" timestamp="1613640925975">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756192" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1613648756192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="298" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613640925975" />
-    <state width="1877" height="298" key="GridCell.Tab.0.left" timestamp="1613640925974">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756192" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1613648756192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="298" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613640925974" />
-    <state width="1877" height="298" key="GridCell.Tab.0.right" timestamp="1613640925975">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756192" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1613648756192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="298" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613640925975" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756192" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1613648756193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756193" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1613648756193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756193" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1613648756193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756193" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1613648756193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756193" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1613636458050">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -159,6 +164,6 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ProjetDevParallele$main.coverage" NAME="main Coverage Results" MODIFIED="1613640925968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjetDevParallele$main.coverage" NAME="main Coverage Results" MODIFIED="1613648706898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

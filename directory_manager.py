@@ -9,11 +9,12 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(mess
 
 
 class DirectoryManager:
-    def __init__(self, ftp_website, directory, depth, excluded_extensions):
+    def __init__(self, ftp_website, directory, depth, excluded_extensions,nb_multi = 1):
         self.root_directory = directory
         self.depth = depth
         # list of the extensions to exclude during synchronization
         self.excluded_extensions = excluded_extensions
+        self.number_thread = nb_multi
         # dictionary to remember the instance of File / Directory saved on the FTP
         self.synchronize_dict = {}
         self.os_separator_count = len(directory.split(os.path.sep))

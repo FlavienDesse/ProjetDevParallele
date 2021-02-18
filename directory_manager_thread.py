@@ -1,32 +1,26 @@
-import Directory
-import os
-import threading
-from logger import Logger
-
-import time
+from talk_to_ftp import TalkToFTP
 
 
-def thingModified(self, listAllThingModified, lock):
-
+def thingModified(self, listAllThingModified, lock, ftp_website):
     while listAllThingModified:
-
         with lock:
             try:
                 elem = listAllThingModified.pop()
             except:
                 break
-        print(len(listAllThingModified))
+
+        ftp = TalkToFTP(ftp_website)
 
         if elem:
-            self.ftp.connect()
+            ftp.connect()
             if elem[0] == "file":
                 if elem[1] == "deleteAndCreate":
-                    self.ftp.remove_file(elem[3])
-                    self.ftp.file_transfer(*elem[2:])
+                    ftp.remove_file(elem[3])
+                    ftp.file_transfer(*elem[2:])
                 elif elem[1] == "create":
-                    self.ftp.file_transfer(*elem[2:])
+                    ftp.file_transfer(*elem[2:])
             else:
-                if elem[1] == "created":
-                    self.ftp.create_folder(elem[2])
+                if elem[1] == "create":
+                    ftp.create_folder(elem[2])
 
-            self.ftp.disconnect()
+            ftp.disconnect()

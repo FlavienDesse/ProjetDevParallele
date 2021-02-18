@@ -12,6 +12,13 @@ class TalkToFTP:
         self.directory = my_srv[3]
         self.ftp = False
 
+
+
+
+    def getInfo(self):
+        return self.host, self.directory, self.password, self.user
+
+
     def connect(self):
         self.ftp = FTP(self.host, self.user, self.password)
 

@@ -27,6 +27,8 @@ class DirectoryManager:
         # list of all thread
         self.all_thread = []
 
+        self.ftp_website=ftp_website
+
         # list of the File / Directory to removed from the dictionary at the end
         # of the synchronization
         self.to_remove_from_dict = []
@@ -53,25 +55,25 @@ class DirectoryManager:
             self.to_remove_from_dict = []
 
             # search for an eventual updates of files in the root directory
-
+            self.ftp.connect()
             self.search_updates(self.root_directory)
 
             # look for any removals of files / directories
-            #self.any_removals()
+            self.any_removals()
 
             start_time = time.time()
 
             lock = threading.Lock()
             for thread in range(self.nb_multi):
                 t = threading.Thread(target=directory_manager_thread.thingModified,
-                                     args=(self, self.listAllThingModified, lock))
+                                     args=(self, self.listAllThingModified, lock,self.ftp_website))
                 self.all_thread.append(t)
                 t.start()
 
             for thread in self.all_thread:
                 thread.join()
             print("----- %s seconds ------" % (time.time() - start_time))
-
+            self.ftp.disconnect()
             # wait before next synchronization
             time.sleep(frequency)
 
@@ -99,7 +101,7 @@ class DirectoryManager:
                         directory_split = srv_full_path.rsplit(os.path.sep, 1)[0]
                         if not self.ftp.if_exist(srv_full_path, self.ftp.get_folder_content(directory_split)):
                             # add this directory to the FTP server
-                            self.listAllThingModified.append(("directory", "created", srv_full_path))
+                            self.listAllThingModified.append(("directory", "create", srv_full_path))
 
             for file_name in files:
                 file_path = os.path.join(path_file, file_name)

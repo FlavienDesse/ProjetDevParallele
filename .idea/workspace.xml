@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="40b6be9a-04a5-4237-9ecb-2ee9fa7c1843" name="Default Changelist" comment="" />
+    <list default="true" id="40b6be9a-04a5-4237-9ecb-2ee9fa7c1843" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DirectoryGoesToMirror/JetBrains.Rider-2020.3.2 - Copie (2) - Copie.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryGoesToMirror/JetBrains.Rider-2020.3.2 - Copie (2).exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryGoesToMirror/JetBrains.Rider-2020.3.2 - Copie (3).exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryGoesToMirror/JetBrains.Rider-2020.3.2 - Copie - Copie (2).exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryGoesToMirror/JetBrains.Rider-2020.3.2 - Copie - Copie - Copie.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryGoesToMirror/JetBrains.Rider-2020.3.2 - Copie - Copie.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryGoesToMirror/JetBrains.Rider-2020.3.2 - Copie.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DirectoryGoesToMirror/JetBrains.Rider-2020.3.2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MirrorDirectory/JetBrains.Rider-2020.3.2 - Copie (2) - Copie.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MirrorDirectory/JetBrains.Rider-2020.3.2 - Copie (2).exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MirrorDirectory/JetBrains.Rider-2020.3.2 - Copie (3).exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MirrorDirectory/JetBrains.Rider-2020.3.2 - Copie - Copie (2).exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MirrorDirectory/JetBrains.Rider-2020.3.2 - Copie - Copie - Copie.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MirrorDirectory/JetBrains.Rider-2020.3.2 - Copie - Copie.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MirrorDirectory/JetBrains.Rider-2020.3.2 - Copie.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MirrorDirectory/JetBrains.Rider-2020.3.2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_file.log.2021-02-18_13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProjetDevParallele.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjetDevParallele.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DirectoryGoesToMirror/az - Copie (2) - Copie.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DirectoryGoesToMirror/az - Copie (2).rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DirectoryGoesToMirror/az - Copie (3) - Copie.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DirectoryGoesToMirror/az - Copie (3).rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DirectoryGoesToMirror/az - Copie (4) - Copie.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DirectoryGoesToMirror/az - Copie (5) - Copie.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MirrorDirectory/az - Copie (2).rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MirrorDirectory/az - Copie (3) - Copie.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MirrorDirectory/az - Copie (3).rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MirrorDirectory/az - Copie (4) - Copie.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MirrorDirectory/az - Copie (5) - Copie.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/directory_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory_manager_thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/directory_manager_thread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk_to_ftp.py" beforeDir="false" afterPath="$PROJECT_DIR$/talk_to_ftp.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +75,7 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
-  <component name="JupyterTrust" id="a3c65dd0-ec4e-4226-a2ac-76b6eb968a1f" />
+  <component name="JupyterTrust" id="5a638de9-f33f-4d61-aadc-d54bcc0e7ad4" />
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -32,15 +84,19 @@
     </option>
   </component>
   <component name="ProjectId" id="1oe5RuDr6FOYvwYXV14x4knpmIE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,7 +117,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="D:\Anaconda\envs\Python\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -78,7 +134,7 @@
         </ENTRIES>
       </EXTENSION>
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="&quot;localhost,root,root,MirrorDirectory&quot; &quot;DirectoryGoesToMirror&quot; 4 4 10" />
+      <option name="PARAMETERS" value="&quot;localhost,root,root,MirrorDirectory&quot; &quot;DirectoryGoesToMirror&quot; 4 4 2" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -99,21 +155,46 @@
       <workItem from="1613637265992" duration="9058000" />
       <workItem from="1613646510715" duration="436000" />
       <workItem from="1613647260520" duration="1488000" />
+      <workItem from="1613650638181" duration="291000" />
+      <workItem from="1613650950715" duration="73000" />
+      <workItem from="1613651036990" duration="1794000" />
+      <workItem from="1613657404565" duration="2902000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="94" key="#Project_Structure" timestamp="1613637114910">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="906" y="378" key="#Inspections" timestamp="1613651160769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="906" y="378" key="#Inspections/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613651160769" />
+    <state x="587" y="127" key="#Project_Structure" timestamp="1613651174963">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1613637114910" />
-    <state x="249" y="349" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613648583426">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="587" y="127" key="#Project_Structure/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613651174963" />
+    <state x="386" y="369" width="1854" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613660381224">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="249" y="349" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613648583426" />
+    <state x="386" y="369" width="1854" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613660381224" />
     <state x="676" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613636642043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -122,38 +203,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613634250947" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1613648756192">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1613660242584">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756192" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1613648756192">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613660242584" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1613660242584">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756192" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1613648756192">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613660242584" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1613660242584">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756192" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1613648756192">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613660242584" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1613660242584">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756192" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1613648756193">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613660242584" />
+    <state width="2517" height="451" key="GridCell.Tab.1.bottom" timestamp="1613660025150">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756193" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1613648756193">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="451" key="GridCell.Tab.1.bottom/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613660025150" />
+    <state width="2517" height="451" key="GridCell.Tab.1.center" timestamp="1613660025150">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756193" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1613648756193">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="451" key="GridCell.Tab.1.center/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613660025150" />
+    <state width="2517" height="451" key="GridCell.Tab.1.left" timestamp="1613660025150">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756193" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1613648756193">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="451" key="GridCell.Tab.1.left/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613660025150" />
+    <state width="2517" height="451" key="GridCell.Tab.1.right" timestamp="1613660025150">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613648756193" />
+    <state width="2517" height="451" key="GridCell.Tab.1.right/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613660025150" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1613636458050">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -164,6 +253,6 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ProjetDevParallele$main.coverage" NAME="main Coverage Results" MODIFIED="1613648706898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjetDevParallele$main.coverage" NAME="main Coverage Results" MODIFIED="1613660242578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

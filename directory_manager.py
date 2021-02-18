@@ -1,6 +1,8 @@
 import logging
 import os
 import time
+import directory_manager_thread
+import threading
 from Directory import Directory
 from File import File
 from talk_to_ftp import TalkToFTP
@@ -9,17 +11,22 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(mess
 
 
 class DirectoryManager:
-    def __init__(self, ftp_website, directory, depth, excluded_extensions,nb_multi = 1):
+    def __init__(self, ftp_website, directory, depth, excluded_extensions, nb_multi=1):
         self.root_directory = directory
         self.depth = depth
+
         # list of the extensions to exclude during synchronization
         self.excluded_extensions = excluded_extensions
-        self.number_thread = nb_multi
+        self.nb_multi = nb_multi
         # dictionary to remember the instance of File / Directory saved on the FTP
         self.synchronize_dict = {}
         self.os_separator_count = len(directory.split(os.path.sep))
         # list of the path explored for each synchronization
         self.paths_explored = []
+
+        # list of all thread
+        self.all_thread = []
+
         # list of the File / Directory to removed from the dictionary at the end
         # of the synchronization
         self.to_remove_from_dict = []
@@ -40,7 +47,7 @@ class DirectoryManager:
         while True:
             # init the path explored to an empty list before each synchronization
             self.paths_explored = []
-
+            self.listAllThingModified=[]
             # init to an empty list for each synchronization
             self.to_remove_from_dict = []
 
@@ -52,12 +59,26 @@ class DirectoryManager:
             self.any_removals()
             self.ftp.disconnect()
 
+            lock = threading.Lock()
+            for thread in range(self.nb_multi):
+                t = threading.Thread(target=directory_manager_thread.thingModified,
+                                     args=(self, self.listAllThingModified, lock))
+                self.all_thread.append(t)
+                t.start()
+
+            for thread in self.all_thread:
+                thread.join()
+
+
             # wait before next synchronization
             time.sleep(frequency)
 
     def search_updates(self, directory):
         # scan recursively all files & directories in the root directory
+
+
         for path_file, dirs, files in os.walk(directory):
+
 
             for dir_name in dirs:
                 folder_path = os.path.join(path_file, dir_name)
@@ -71,17 +92,14 @@ class DirectoryManager:
                     # a folder get created during running time if not present in our list
 
                     if folder_path not in self.synchronize_dict.keys():
-                        # directory created
-                        # add it to dictionary
                         self.synchronize_dict[folder_path] = Directory(folder_path)
-
                         # create it on FTP server
                         split_path = folder_path.split(self.root_directory)
                         srv_full_path = '{}{}'.format(self.ftp.directory, split_path[1])
-                        directory_split = srv_full_path.rsplit(os.path.sep,1)[0]
+                        directory_split = srv_full_path.rsplit(os.path.sep, 1)[0]
                         if not self.ftp.if_exist(srv_full_path, self.ftp.get_folder_content(directory_split)):
                             # add this directory to the FTP server
-                            self.ftp.create_folder(srv_full_path)
+                            self.listAllThingModified.append(("directory", "created", srv_full_path))
 
             for file_name in files:
                 file_path = os.path.join(path_file, file_name)
@@ -100,9 +118,8 @@ class DirectoryManager:
                             # file get updates
                             split_path = file_path.split(self.root_directory)
                             srv_full_path = '{}{}'.format(self.ftp.directory, split_path[1])
-                            self.ftp.remove_file(srv_full_path)
-                            # update this file on the FTP server
-                            self.ftp.file_transfer(path_file, srv_full_path, file_name)
+
+                            self.listAllThingModified.append(("file", "deleteAndCreate", path_file, srv_full_path, file_name))
 
                     else:
 
@@ -110,8 +127,11 @@ class DirectoryManager:
                         self.synchronize_dict[file_path] = File(file_path)
                         split_path = file_path.split(self.root_directory)
                         srv_full_path = '{}{}'.format(self.ftp.directory, split_path[1])
+                        self.listAllThingModified.append(("file", "create", path_file, srv_full_path, file_name))
                         # add this file on the FTP server
-                        self.ftp.file_transfer(path_file, srv_full_path, file_name)
+
+
+
 
     def any_removals(self):
         # if the length of the files & folders to synchronize == number of path explored
@@ -167,9 +187,10 @@ class DirectoryManager:
         sorted_containers = sorted(directory_containers.values())
 
         # we iterate starting from the innermost file
-        for i in range(len(sorted_containers)-1, -1, -1):
+        for i in range(len(sorted_containers) - 1, -1, -1):
             for to_delete in sorted_containers[i]:
-                to_delete_ftp = "{0}{1}{2}".format(self.ftp.directory, os.path.sep, to_delete.split(self.root_directory)[1])
+                to_delete_ftp = "{0}{1}{2}".format(self.ftp.directory, os.path.sep,
+                                                   to_delete.split(self.root_directory)[1])
                 if isinstance(self.synchronize_dict[to_delete], File):
                     self.ftp.remove_file(to_delete_ftp)
                     self.to_remove_from_dict.append(to_delete)

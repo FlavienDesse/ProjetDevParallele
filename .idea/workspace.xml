@@ -10,6 +10,13 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -41,16 +48,21 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,7 +108,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613634216758</updated>
-      <workItem from="1613634222557" duration="2232000" />
+      <workItem from="1613634222557" duration="3005000" />
+      <workItem from="1613637265992" duration="4529000" />
     </task>
     <servers />
   </component>
@@ -104,36 +117,48 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="599" y="174" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613636397212">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1613637114910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="599" y="174" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613636397212" />
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1613637114910" />
+    <state x="249" y="349" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613637537929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="249" y="349" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613637537929" />
+    <state x="676" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613636642043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613636642043" />
     <state x="740" y="287" key="FileChooserDialogImpl" timestamp="1613634250947">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613634250947" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1613635708284">
+    <state width="1877" height="298" key="GridCell.Tab.0.bottom" timestamp="1613640925975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613635708284" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1613635708284">
+    <state width="1877" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613640925975" />
+    <state width="1877" height="298" key="GridCell.Tab.0.center" timestamp="1613640925975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613635708284" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1613635708284">
+    <state width="1877" height="298" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613640925975" />
+    <state width="1877" height="298" key="GridCell.Tab.0.left" timestamp="1613640925974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613635708284" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1613635708284">
+    <state width="1877" height="298" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613640925974" />
+    <state width="1877" height="298" key="GridCell.Tab.0.right" timestamp="1613640925975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613635708284" />
+    <state width="1877" height="298" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613640925975" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1613636458050">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613636458050" />
   </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ProjetDevParallele$main.coverage" NAME="main Coverage Results" MODIFIED="1613635708277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjetDevParallele$main.coverage" NAME="main Coverage Results" MODIFIED="1613640925968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

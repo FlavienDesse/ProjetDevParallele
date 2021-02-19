@@ -193,7 +193,7 @@ class DirectoryManager:
                                                    to_delete.split(self.root_directory)[1])
                 if isinstance(self.synchronize_dict[to_delete], File):
                     # self.ftp.remove_file(to_delete_ftp)
-                    self.listAllThingModified.append(("file", "delete", srv_full_path))
+                    self.listAllThingModified.append(("file", "delete", to_delete_ftp))
                     self.to_remove_from_dict.append(to_delete)
                 else:
                     # if it's again a directory, we delete all his containers also

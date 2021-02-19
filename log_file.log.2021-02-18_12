@@ -1,0 +1,975 @@
+2021-02-18 08:48:58,144 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 08:49:29,943 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 08:50:05,550 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 08:51:14,325 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 08:53:24,637 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 08:54:39,811 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 08:57:23,367 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 08:58:25,583 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 08:58:51,387 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 08:59:34,759 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:02:08,815 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:03:09,961 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:03:52,666 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:03:52,676 - root - INFO - logger : 20 - Folder created : MirrorDirectory
+2021-02-18 09:04:36,565 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:04:36,576 - root - INFO - logger : 20 - Folder created : MirrorDirectory
+2021-02-18 09:05:41,685 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:05:41,694 - root - INFO - logger : 20 - Folder created : MirrorDirectory
+2021-02-18 09:08:28,569 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:08:28,587 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file.txt file file.txt
+2021-02-18 09:11:36,720 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (10).txt file file - Copie (10).txt
+2021-02-18 09:11:36,729 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (11).txt file file - Copie (11).txt
+2021-02-18 09:11:36,739 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (12).txt file file - Copie (12).txt
+2021-02-18 09:11:36,750 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (13).txt file file - Copie (13).txt
+2021-02-18 09:11:36,760 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (14).txt file file - Copie (14).txt
+2021-02-18 09:11:36,770 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (2).txt file file - Copie (2).txt
+2021-02-18 09:11:36,778 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (3).txt file file - Copie (3).txt
+2021-02-18 09:11:36,787 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (4).txt file file - Copie (4).txt
+2021-02-18 09:11:36,797 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (5).txt file file - Copie (5).txt
+2021-02-18 09:11:36,806 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (6).txt file file - Copie (6).txt
+2021-02-18 09:11:36,815 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (7).txt file file - Copie (7).txt
+2021-02-18 09:11:36,823 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (8).txt file file - Copie (8).txt
+2021-02-18 09:11:36,833 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (9).txt file file - Copie (9).txt
+2021-02-18 09:11:36,842 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie.txt file file - Copie.txt
+2021-02-18 09:11:40,861 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (15).txt file file - Copie (15).txt
+2021-02-18 09:11:40,871 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (16).txt file file - Copie (16).txt
+2021-02-18 09:11:40,881 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (17).txt file file - Copie (17).txt
+2021-02-18 09:11:40,890 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (18).txt file file - Copie (18).txt
+2021-02-18 09:11:40,898 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (19).txt file file - Copie (19).txt
+2021-02-18 09:11:40,909 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (20).txt file file - Copie (20).txt
+2021-02-18 09:11:40,923 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (21).txt file file - Copie (21).txt
+2021-02-18 09:11:40,933 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (22).txt file file - Copie (22).txt
+2021-02-18 09:11:40,942 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (23).txt file file - Copie (23).txt
+2021-02-18 09:11:40,952 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (24).txt file file - Copie (24).txt
+2021-02-18 09:11:40,962 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (25).txt file file - Copie (25).txt
+2021-02-18 09:11:40,972 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (26).txt file file - Copie (26).txt
+2021-02-18 09:11:40,982 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (27).txt file file - Copie (27).txt
+2021-02-18 09:11:40,992 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (28).txt file file - Copie (28).txt
+2021-02-18 09:11:41,002 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (29).txt file file - Copie (29).txt
+2021-02-18 09:11:41,011 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (30).txt file file - Copie (30).txt
+2021-02-18 09:11:41,020 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (31).txt file file - Copie (31).txt
+2021-02-18 09:11:41,030 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (32).txt file file - Copie (32).txt
+2021-02-18 09:11:41,038 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (33).txt file file - Copie (33).txt
+2021-02-18 09:11:41,048 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (34).txt file file - Copie (34).txt
+2021-02-18 09:11:41,066 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (35).txt file file - Copie (35).txt
+2021-02-18 09:11:41,077 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (36).txt file file - Copie (36).txt
+2021-02-18 09:11:41,086 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (37).txt file file - Copie (37).txt
+2021-02-18 09:11:41,095 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (38).txt file file - Copie (38).txt
+2021-02-18 09:11:41,104 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\file - Copie (39).txt file file - Copie (39).txt
+2021-02-18 09:14:33,340 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file.txt
+2021-02-18 09:14:33,343 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (10).txt
+2021-02-18 09:14:33,346 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (11).txt
+2021-02-18 09:14:33,348 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (12).txt
+2021-02-18 09:14:33,351 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (13).txt
+2021-02-18 09:14:33,353 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (14).txt
+2021-02-18 09:14:33,355 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (2).txt
+2021-02-18 09:14:33,357 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (3).txt
+2021-02-18 09:14:33,359 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (4).txt
+2021-02-18 09:14:33,361 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (5).txt
+2021-02-18 09:14:33,363 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (6).txt
+2021-02-18 09:14:33,365 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (7).txt
+2021-02-18 09:14:33,367 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (8).txt
+2021-02-18 09:14:33,368 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (9).txt
+2021-02-18 09:14:33,370 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie.txt
+2021-02-18 09:14:33,372 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (15).txt
+2021-02-18 09:14:33,373 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (16).txt
+2021-02-18 09:14:33,375 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (17).txt
+2021-02-18 09:14:33,377 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (18).txt
+2021-02-18 09:14:33,379 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (19).txt
+2021-02-18 09:14:33,380 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (20).txt
+2021-02-18 09:14:33,382 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (21).txt
+2021-02-18 09:14:33,384 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (22).txt
+2021-02-18 09:14:33,386 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (23).txt
+2021-02-18 09:14:33,388 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (24).txt
+2021-02-18 09:14:33,389 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (25).txt
+2021-02-18 09:14:33,391 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (26).txt
+2021-02-18 09:14:33,393 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (27).txt
+2021-02-18 09:14:33,395 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (28).txt
+2021-02-18 09:14:33,396 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (29).txt
+2021-02-18 09:14:33,399 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (30).txt
+2021-02-18 09:14:33,401 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (31).txt
+2021-02-18 09:14:33,401 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (32).txt
+2021-02-18 09:14:33,403 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (33).txt
+2021-02-18 09:14:33,406 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (34).txt
+2021-02-18 09:14:33,407 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (35).txt
+2021-02-18 09:14:33,409 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (36).txt
+2021-02-18 09:14:33,412 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (37).txt
+2021-02-18 09:14:33,412 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (38).txt
+2021-02-18 09:14:33,419 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\file - Copie (39).txt
+2021-02-18 09:17:37,530 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az.txt file az.txt
+2021-02-18 09:17:49,538 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az.txt
+2021-02-18 09:17:49,547 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az.txt file az.txt
+2021-02-18 09:18:17,578 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie.txt file az - Copie.txt
+2021-02-18 09:18:21,581 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az.txt
+2021-02-18 09:18:21,596 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az.txt file az.txt
+2021-02-18 09:18:41,611 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie.txt
+2021-02-18 09:32:22,015 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:33:52,422 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:35:01,735 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:36:09,608 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:36:59,575 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:37:32,162 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:37:56,506 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:37:56,507 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:38:52,691 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:38:52,693 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:40:31,438 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:40:31,439 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:40:31,460 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az.txt file az.txt
+2021-02-18 09:40:41,670 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 09:40:41,687 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az.txt file az.txt
+2021-02-18 10:02:33,495 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:04:18,716 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:04:34,149 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:04:56,366 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:04:56,388 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az.txt file az.txt
+2021-02-18 10:05:04,401 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier
+2021-02-18 10:05:08,434 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (8)
+2021-02-18 10:05:08,435 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (7)
+2021-02-18 10:05:08,437 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (5)
+2021-02-18 10:05:08,438 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (14)
+2021-02-18 10:05:08,439 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (9)
+2021-02-18 10:05:08,440 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (3)
+2021-02-18 10:05:08,441 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (12)
+2021-02-18 10:05:08,442 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (11)
+2021-02-18 10:05:08,443 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie
+2021-02-18 10:05:08,444 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (10)
+2021-02-18 10:05:08,445 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az
+2021-02-18 10:05:08,446 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (4)
+2021-02-18 10:05:08,448 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (6)
+2021-02-18 10:05:08,450 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (13)
+2021-02-18 10:05:08,451 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (2)
+2021-02-18 10:05:08,481 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\Nouveau dossier
+2021-02-18 10:05:12,537 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (30)
+2021-02-18 10:05:12,540 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (25)
+2021-02-18 10:05:12,542 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (27)
+2021-02-18 10:05:12,543 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (29)
+2021-02-18 10:05:12,546 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (23)
+2021-02-18 10:05:12,547 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (21)
+2021-02-18 10:05:12,550 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (28)
+2021-02-18 10:05:12,551 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (24)
+2021-02-18 10:05:12,553 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (19)
+2021-02-18 10:05:12,553 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (18)
+2021-02-18 10:05:12,554 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (26)
+2021-02-18 10:05:12,555 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (16)
+2021-02-18 10:05:12,555 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (22)
+2021-02-18 10:05:12,555 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (31)
+2021-02-18 10:05:12,556 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (17)
+2021-02-18 10:05:12,557 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (20)
+2021-02-18 10:05:12,558 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (15)
+2021-02-18 10:05:33,113 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (10)
+2021-02-18 10:05:33,115 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (11)
+2021-02-18 10:05:33,117 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (12)
+2021-02-18 10:05:33,119 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (13)
+2021-02-18 10:05:33,121 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (14)
+2021-02-18 10:05:33,122 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (2)
+2021-02-18 10:05:33,124 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (3)
+2021-02-18 10:05:33,125 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (4)
+2021-02-18 10:05:33,127 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (5)
+2021-02-18 10:05:33,129 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (6)
+2021-02-18 10:05:33,131 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (7)
+2021-02-18 10:05:33,132 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (8)
+2021-02-18 10:05:33,134 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (9)
+2021-02-18 10:05:33,136 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (15)
+2021-02-18 10:05:33,138 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (16)
+2021-02-18 10:05:33,139 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (17)
+2021-02-18 10:05:33,141 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (18)
+2021-02-18 10:05:33,143 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (19)
+2021-02-18 10:05:33,145 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (20)
+2021-02-18 10:05:33,146 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (21)
+2021-02-18 10:05:33,148 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (22)
+2021-02-18 10:05:33,150 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (23)
+2021-02-18 10:05:33,152 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (24)
+2021-02-18 10:05:33,154 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (25)
+2021-02-18 10:05:33,156 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (26)
+2021-02-18 10:05:33,157 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (27)
+2021-02-18 10:05:33,159 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (28)
+2021-02-18 10:05:33,162 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (29)
+2021-02-18 10:05:33,163 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (30)
+2021-02-18 10:05:33,165 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\az - Copie (31)
+2021-02-18 10:05:33,167 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\az - Copie
+2021-02-18 10:08:44,909 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:08:44,929 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az.txt file az.txt
+2021-02-18 10:08:56,954 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie
+2021-02-18 10:08:56,955 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (3)
+2021-02-18 10:08:56,956 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (2)
+2021-02-18 10:09:04,971 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\az - Copie (2)
+2021-02-18 10:09:04,972 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\az - Copie (3)
+2021-02-18 10:09:44,742 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:09:44,764 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az.txt file az.txt
+2021-02-18 10:09:48,776 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (2)
+2021-02-18 10:09:52,792 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (7)
+2021-02-18 10:09:52,793 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (3)
+2021-02-18 10:09:52,794 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (5)
+2021-02-18 10:09:52,794 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (6)
+2021-02-18 10:09:52,795 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (4)
+2021-02-18 10:09:56,844 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (9)
+2021-02-18 10:09:56,848 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (8)
+2021-02-18 10:09:56,850 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (18)
+2021-02-18 10:09:56,852 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (20)
+2021-02-18 10:09:56,853 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (19)
+2021-02-18 10:09:56,855 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (15)
+2021-02-18 10:09:56,856 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (22)
+2021-02-18 10:09:56,857 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (14)
+2021-02-18 10:09:56,858 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (16)
+2021-02-18 10:09:56,859 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (12)
+2021-02-18 10:09:56,860 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (17)
+2021-02-18 10:09:56,861 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (11)
+2021-02-18 10:09:56,862 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (13)
+2021-02-18 10:09:56,863 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (21)
+2021-02-18 10:11:27,455 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:11:27,477 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az.txt file az.txt
+2021-02-18 10:11:35,840 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (7)
+2021-02-18 10:11:35,844 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (5)
+2021-02-18 10:11:35,847 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (4)
+2021-02-18 10:11:35,847 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (3)
+2021-02-18 10:11:35,848 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (97) - Copie
+2021-02-18 10:11:35,849 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (2)
+2021-02-18 10:11:35,851 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (99) - Copie
+2021-02-18 10:11:35,852 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (96) - Copie
+2021-02-18 10:11:35,852 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (6)
+2021-02-18 10:11:35,853 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie
+2021-02-18 10:11:35,854 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (93) - Copie
+2021-02-18 10:11:35,856 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (91) - Copie
+2021-02-18 10:11:35,857 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (90) - Copie
+2021-02-18 10:11:35,858 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (9) - Copie
+2021-02-18 10:11:35,859 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (98) - Copie
+2021-02-18 10:11:35,859 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (92) - Copie
+2021-02-18 10:11:35,861 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (88) - Copie
+2021-02-18 10:11:35,862 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (94) - Copie
+2021-02-18 10:11:35,863 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (9)
+2021-02-18 10:11:35,864 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (89) - Copie
+2021-02-18 10:11:35,866 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (84) - Copie
+2021-02-18 10:11:35,867 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (83) - Copie
+2021-02-18 10:11:35,868 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (82) - Copie
+2021-02-18 10:11:35,869 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (81) - Copie
+2021-02-18 10:11:35,871 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (80) - Copie
+2021-02-18 10:11:35,872 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (8) - Copie
+2021-02-18 10:11:35,874 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (8)
+2021-02-18 10:11:35,875 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (79) - Copie
+2021-02-18 10:11:35,876 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (78) - Copie
+2021-02-18 10:11:35,877 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (77) - Copie
+2021-02-18 10:11:35,880 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (86) - Copie
+2021-02-18 10:11:35,881 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (75) - Copie
+2021-02-18 10:11:35,883 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (95) - Copie
+2021-02-18 10:11:35,884 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (73) - Copie
+2021-02-18 10:11:35,886 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (72) - Copie
+2021-02-18 10:11:35,888 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (74) - Copie
+2021-02-18 10:11:35,890 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (7) - Copie
+2021-02-18 10:11:35,890 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (76) - Copie
+2021-02-18 10:11:35,894 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (69) - Copie
+2021-02-18 10:11:35,894 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (71) - Copie
+2021-02-18 10:11:35,895 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (68) - Copie
+2021-02-18 10:11:35,898 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (7)
+2021-02-18 10:11:35,899 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (66) - Copie
+2021-02-18 10:11:35,901 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (70) - Copie
+2021-02-18 10:11:35,902 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (64) - Copie
+2021-02-18 10:11:35,902 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (67) - Copie
+2021-02-18 10:11:35,905 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (85) - Copie
+2021-02-18 10:11:35,906 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (65) - Copie
+2021-02-18 10:11:35,906 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (87) - Copie
+2021-02-18 10:11:35,908 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (60) - Copie
+2021-02-18 10:11:35,910 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (63) - Copie
+2021-02-18 10:11:35,910 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (62) - Copie
+2021-02-18 10:11:35,911 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (6)
+2021-02-18 10:11:35,913 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (58) - Copie
+2021-02-18 10:11:35,915 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (56) - Copie
+2021-02-18 10:11:35,916 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (57) - Copie
+2021-02-18 10:11:35,917 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (59) - Copie
+2021-02-18 10:11:35,919 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (54) - Copie
+2021-02-18 10:11:35,920 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (52) - Copie
+2021-02-18 10:11:35,921 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (51) - Copie
+2021-02-18 10:11:35,922 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (50) - Copie
+2021-02-18 10:11:35,924 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (6) - Copie
+2021-02-18 10:11:35,925 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (5)
+2021-02-18 10:11:35,926 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (55) - Copie
+2021-02-18 10:11:35,928 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (61) - Copie
+2021-02-18 10:11:35,929 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (47) - Copie
+2021-02-18 10:11:35,930 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (53) - Copie
+2021-02-18 10:11:35,931 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (49) - Copie
+2021-02-18 10:11:35,933 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (44) - Copie
+2021-02-18 10:11:35,934 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (43) - Copie
+2021-02-18 10:11:35,935 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (42) - Copie
+2021-02-18 10:11:35,936 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (41) - Copie
+2021-02-18 10:11:35,938 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (48) - Copie
+2021-02-18 10:11:35,939 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (4) - Copie
+2021-02-18 10:11:35,940 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (4)
+2021-02-18 10:11:35,942 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (39) - Copie
+2021-02-18 10:11:35,943 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (38) - Copie
+2021-02-18 10:11:35,944 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (37) - Copie
+2021-02-18 10:11:35,946 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (36) - Copie
+2021-02-18 10:11:35,947 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (45) - Copie
+2021-02-18 10:11:35,949 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (40) - Copie
+2021-02-18 10:11:35,950 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (5) - Copie
+2021-02-18 10:11:35,952 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (32) - Copie
+2021-02-18 10:11:35,953 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (35) - Copie
+2021-02-18 10:11:35,954 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (30) - Copie
+2021-02-18 10:11:35,956 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (33) - Copie
+2021-02-18 10:11:35,957 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (46) - Copie
+2021-02-18 10:11:35,959 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (31) - Copie
+2021-02-18 10:11:35,960 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (34) - Copie
+2021-02-18 10:11:35,962 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (27) - Copie
+2021-02-18 10:11:35,963 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (26) - Copie
+2021-02-18 10:11:35,965 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (25) - Copie
+2021-02-18 10:11:35,966 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (24) - Copie
+2021-02-18 10:11:35,967 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (3) - Copie
+2021-02-18 10:11:35,969 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (23) - Copie
+2021-02-18 10:11:35,970 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (29) - Copie
+2021-02-18 10:11:35,971 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (22) - Copie
+2021-02-18 10:11:35,973 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (24)
+2021-02-18 10:11:35,974 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (21) - Copie
+2021-02-18 10:11:35,975 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (21)
+2021-02-18 10:11:35,977 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (28) - Copie
+2021-02-18 10:11:35,978 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (22)
+2021-02-18 10:11:35,980 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (2) - Copie
+2021-02-18 10:11:35,980 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (23)
+2021-02-18 10:11:35,982 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (20) - Copie
+2021-02-18 10:11:35,983 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (19)
+2021-02-18 10:11:35,985 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (18) - Copie
+2021-02-18 10:11:35,986 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (2)
+2021-02-18 10:11:35,987 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (19) - Copie
+2021-02-18 10:11:35,989 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (17)
+2021-02-18 10:11:35,990 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (3)
+2021-02-18 10:11:35,992 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (16)
+2021-02-18 10:11:35,993 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (17) - Copie
+2021-02-18 10:11:35,994 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (20)
+2021-02-18 10:11:35,996 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (18)
+2021-02-18 10:11:35,997 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (14)
+2021-02-18 10:11:35,999 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (15)
+2021-02-18 10:11:36,000 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (16) - Copie
+2021-02-18 10:11:36,002 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (12) - Copie
+2021-02-18 10:11:36,002 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (12)
+2021-02-18 10:11:36,004 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (11) - Copie
+2021-02-18 10:11:36,005 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (11)
+2021-02-18 10:11:36,005 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (14) - Copie
+2021-02-18 10:11:36,006 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (10)
+2021-02-18 10:11:36,007 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (13) - Copie
+2021-02-18 10:11:36,007 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie
+2021-02-18 10:11:36,008 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (13)
+2021-02-18 10:11:36,009 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (15) - Copie
+2021-02-18 10:11:36,009 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (10) - Copie
+2021-02-18 10:11:36,010 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier
+2021-02-18 10:12:28,272 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (95) - Copie - Copie
+2021-02-18 10:12:40,326 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\az
+2021-02-18 10:12:40,328 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\Nouveau dossier - Copie (10) - Copie
+2021-02-18 10:12:40,329 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\Nouveau dossier - Copie (10)
+2021-02-18 10:14:00,900 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:14:05,053 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az.txt file az.txt
+2021-02-18 10:14:05,101 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (9)
+2021-02-18 10:14:05,105 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (8)
+2021-02-18 10:14:05,107 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (36)
+2021-02-18 10:14:05,109 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (7)
+2021-02-18 10:14:05,109 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (4)
+2021-02-18 10:14:05,111 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (34)
+2021-02-18 10:14:05,112 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (6)
+2021-02-18 10:14:05,113 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (35)
+2021-02-18 10:14:05,115 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (30)
+2021-02-18 10:14:05,116 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (32)
+2021-02-18 10:14:05,118 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (5)
+2021-02-18 10:14:05,119 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (31)
+2021-02-18 10:14:05,121 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (33)
+2021-02-18 10:14:05,122 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (3)
+2021-02-18 10:14:05,124 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (29)
+2021-02-18 10:14:05,125 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (28)
+2021-02-18 10:14:05,126 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (23)
+2021-02-18 10:14:05,129 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (22)
+2021-02-18 10:14:05,130 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (25)
+2021-02-18 10:14:05,132 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (24)
+2021-02-18 10:14:05,133 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (27)
+2021-02-18 10:14:05,134 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (26)
+2021-02-18 10:14:05,136 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (21)
+2021-02-18 10:14:05,138 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (17)
+2021-02-18 10:14:05,139 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (2)
+2021-02-18 10:14:05,141 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (15)
+2021-02-18 10:14:05,142 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (18)
+2021-02-18 10:14:05,144 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (13)
+2021-02-18 10:14:05,146 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (19)
+2021-02-18 10:14:05,147 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (11)
+2021-02-18 10:14:05,150 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (10)
+2021-02-18 10:14:05,151 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie
+2021-02-18 10:14:05,153 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (99) - Copie
+2021-02-18 10:14:05,154 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (98) - Copie
+2021-02-18 10:14:05,156 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (20)
+2021-02-18 10:14:05,157 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (97) - Copie
+2021-02-18 10:14:05,157 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (12)
+2021-02-18 10:14:05,159 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (94) - Copie
+2021-02-18 10:14:05,162 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (96) - Copie
+2021-02-18 10:14:05,164 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (16)
+2021-02-18 10:14:05,165 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (95) - Copie
+2021-02-18 10:14:05,167 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (9) - Copie
+2021-02-18 10:14:05,168 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (90) - Copie
+2021-02-18 10:14:05,170 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (92) - Copie
+2021-02-18 10:14:05,172 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (91) - Copie
+2021-02-18 10:14:05,173 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (88) - Copie
+2021-02-18 10:14:05,174 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (87) - Copie
+2021-02-18 10:14:05,175 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (93) - Copie
+2021-02-18 10:14:05,177 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (85) - Copie
+2021-02-18 10:14:05,178 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (84) - Copie
+2021-02-18 10:14:05,180 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (83) - Copie
+2021-02-18 10:14:05,181 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (82) - Copie
+2021-02-18 10:14:05,181 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (89) - Copie
+2021-02-18 10:14:05,184 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (80) - Copie
+2021-02-18 10:14:05,185 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie - Copie (14)
+2021-02-18 10:14:05,187 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (8)
+2021-02-18 10:14:05,188 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (86) - Copie
+2021-02-18 10:14:05,190 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (78) - Copie
+2021-02-18 10:14:05,193 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (8) - Copie
+2021-02-18 10:14:05,194 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (76) - Copie
+2021-02-18 10:14:05,196 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (79) - Copie
+2021-02-18 10:14:05,197 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (74) - Copie
+2021-02-18 10:14:05,198 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (77) - Copie
+2021-02-18 10:14:05,200 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (72) - Copie
+2021-02-18 10:14:05,201 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (75) - Copie
+2021-02-18 10:14:05,203 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (70) - Copie
+2021-02-18 10:14:05,204 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (9)
+2021-02-18 10:14:05,206 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (7) - Copie
+2021-02-18 10:14:05,207 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (69) - Copie
+2021-02-18 10:14:05,208 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (71) - Copie
+2021-02-18 10:14:05,210 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (66) - Copie
+2021-02-18 10:14:05,212 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (81) - Copie
+2021-02-18 10:14:05,213 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (64) - Copie
+2021-02-18 10:14:05,215 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (67) - Copie
+2021-02-18 10:14:05,216 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (62) - Copie
+2021-02-18 10:14:05,218 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (61) - Copie
+2021-02-18 10:14:05,219 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (60) - Copie
+2021-02-18 10:14:05,221 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (73) - Copie
+2021-02-18 10:14:05,223 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (59) - Copie
+2021-02-18 10:14:05,223 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (68) - Copie
+2021-02-18 10:14:05,224 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (57) - Copie
+2021-02-18 10:14:05,228 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (63) - Copie
+2021-02-18 10:14:05,229 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (56) - Copie
+2021-02-18 10:14:05,230 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (55) - Copie
+2021-02-18 10:14:05,233 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (53) - Copie
+2021-02-18 10:14:05,234 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (65) - Copie
+2021-02-18 10:14:05,235 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (54) - Copie
+2021-02-18 10:14:05,236 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (50) - Copie
+2021-02-18 10:14:05,238 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (6) - Copie
+2021-02-18 10:14:05,240 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (49) - Copie
+2021-02-18 10:14:05,241 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (51) - Copie
+2021-02-18 10:14:05,243 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (5) - Copie
+2021-02-18 10:14:05,244 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (46) - Copie
+2021-02-18 10:14:05,246 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (52) - Copie
+2021-02-18 10:14:05,247 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (48) - Copie
+2021-02-18 10:14:05,249 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (43) - Copie
+2021-02-18 10:14:05,249 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (58) - Copie
+2021-02-18 10:14:05,250 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (45) - Copie
+2021-02-18 10:14:05,253 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (42) - Copie
+2021-02-18 10:14:05,254 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (42)
+2021-02-18 10:14:05,257 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (43)
+2021-02-18 10:14:05,258 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (40)
+2021-02-18 10:14:05,262 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (47) - Copie
+2021-02-18 10:14:05,264 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (41) - Copie
+2021-02-18 10:14:05,267 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (39)
+2021-02-18 10:14:05,269 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (44) - Copie
+2021-02-18 10:14:05,269 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (4) - Copie
+2021-02-18 10:14:05,272 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (38)
+2021-02-18 10:14:05,273 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (41)
+2021-02-18 10:14:05,276 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (37) - Copie
+2021-02-18 10:14:05,278 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (37)
+2021-02-18 10:14:05,280 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (36) - Copie
+2021-02-18 10:14:05,281 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (35) - Copie
+2021-02-18 10:14:05,283 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (35)
+2021-02-18 10:14:05,285 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (38) - Copie
+2021-02-18 10:14:05,285 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (39) - Copie
+2021-02-18 10:14:05,287 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (36)
+2021-02-18 10:14:05,289 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (33) - Copie
+2021-02-18 10:14:05,291 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (33)
+2021-02-18 10:14:05,293 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (34)
+2021-02-18 10:14:05,294 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (32)
+2021-02-18 10:14:05,297 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (40) - Copie
+2021-02-18 10:14:05,298 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (34) - Copie
+2021-02-18 10:14:05,300 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (32) - Copie
+2021-02-18 10:14:05,301 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (31) - Copie
+2021-02-18 10:14:05,303 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (29) - Copie
+2021-02-18 10:14:05,304 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (29)
+2021-02-18 10:14:05,307 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (30)
+2021-02-18 10:14:05,308 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (28)
+2021-02-18 10:14:05,310 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (31)
+2021-02-18 10:14:05,311 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (27)
+2021-02-18 10:14:05,313 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (26) - Copie
+2021-02-18 10:14:05,315 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (27) - Copie
+2021-02-18 10:14:05,316 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (25) - Copie
+2021-02-18 10:14:05,318 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (28) - Copie
+2021-02-18 10:14:05,319 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (24) - Copie
+2021-02-18 10:14:05,319 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (3) - Copie
+2021-02-18 10:14:05,322 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (23) - Copie
+2021-02-18 10:14:05,323 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (25)
+2021-02-18 10:14:05,325 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (22) - Copie
+2021-02-18 10:14:05,326 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (24)
+2021-02-18 10:14:05,329 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (22)
+2021-02-18 10:14:05,330 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (21)
+2021-02-18 10:14:05,332 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (20) - Copie
+2021-02-18 10:14:05,334 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (20)
+2021-02-18 10:14:05,335 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (21) - Copie
+2021-02-18 10:14:05,338 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (23)
+2021-02-18 10:14:05,340 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (195) - Copie
+2021-02-18 10:14:05,342 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (26)
+2021-02-18 10:14:05,343 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (193) - Copie
+2021-02-18 10:14:05,343 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (196) - Copie
+2021-02-18 10:14:05,346 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (191) - Copie
+2021-02-18 10:14:05,347 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (194) - Copie
+2021-02-18 10:14:05,349 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (190) - Copie
+2021-02-18 10:14:05,351 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (192) - Copie
+2021-02-18 10:14:05,352 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (19)
+2021-02-18 10:14:05,354 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (2) - Copie
+2021-02-18 10:14:05,355 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (19) - Copie
+2021-02-18 10:14:05,356 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (30) - Copie
+2021-02-18 10:14:05,358 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (189) - Copie
+2021-02-18 10:14:05,359 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (188) - Copie
+2021-02-18 10:14:05,361 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (187) - Copie
+2021-02-18 10:14:05,363 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (186) - Copie
+2021-02-18 10:14:05,364 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (185) - Copie
+2021-02-18 10:14:05,366 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (180) - Copie
+2021-02-18 10:14:05,368 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (182) - Copie
+2021-02-18 10:14:05,369 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (18)
+2021-02-18 10:14:05,370 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (181) - Copie
+2021-02-18 10:14:05,372 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (18) - Copie
+2021-02-18 10:14:05,372 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (183) - Copie
+2021-02-18 10:14:05,375 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (184) - Copie
+2021-02-18 10:14:05,376 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (175) - Copie
+2021-02-18 10:14:05,378 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (177) - Copie
+2021-02-18 10:14:05,379 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (173) - Copie
+2021-02-18 10:14:05,379 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (179) - Copie
+2021-02-18 10:14:05,381 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (174) - Copie
+2021-02-18 10:14:05,383 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (171) - Copie
+2021-02-18 10:14:05,384 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (170) - Copie
+2021-02-18 10:14:05,386 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (172) - Copie
+2021-02-18 10:14:05,387 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (169) - Copie
+2021-02-18 10:14:05,388 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (168) - Copie
+2021-02-18 10:14:05,389 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (167) - Copie
+2021-02-18 10:14:05,391 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (166) - Copie
+2021-02-18 10:14:05,392 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (17)
+2021-02-18 10:14:05,392 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (178) - Copie
+2021-02-18 10:14:05,395 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (163) - Copie
+2021-02-18 10:14:05,396 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (17) - Copie
+2021-02-18 10:14:05,397 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (162) - Copie
+2021-02-18 10:14:05,398 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (161) - Copie
+2021-02-18 10:14:05,400 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (160) - Copie
+2021-02-18 10:14:05,401 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (16) - Copie
+2021-02-18 10:14:05,403 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (165) - Copie
+2021-02-18 10:14:05,404 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (158) - Copie
+2021-02-18 10:14:05,405 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (16)
+2021-02-18 10:14:05,406 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (156) - Copie
+2021-02-18 10:14:05,408 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (159) - Copie
+2021-02-18 10:14:05,409 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (154) - Copie
+2021-02-18 10:14:05,411 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (153) - Copie
+2021-02-18 10:14:05,412 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (152) - Copie
+2021-02-18 10:14:05,413 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (155) - Copie
+2021-02-18 10:14:05,414 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (151) - Copie
+2021-02-18 10:14:05,416 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (157) - Copie
+2021-02-18 10:14:05,417 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (176) - Copie
+2021-02-18 10:14:05,420 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (150) - Copie
+2021-02-18 10:14:05,420 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (164) - Copie
+2021-02-18 10:14:05,422 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (147) - Copie
+2021-02-18 10:14:05,423 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (146) - Copie
+2021-02-18 10:14:05,425 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (149) - Copie
+2021-02-18 10:14:05,426 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (144) - Copie
+2021-02-18 10:14:05,427 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (143) - Copie
+2021-02-18 10:14:05,428 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (142) - Copie
+2021-02-18 10:14:05,430 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (145) - Copie
+2021-02-18 10:14:05,431 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (140) - Copie
+2021-02-18 10:14:05,433 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (14) - Copie
+2021-02-18 10:14:05,434 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (15)
+2021-02-18 10:14:05,435 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (141) - Copie
+2021-02-18 10:14:05,436 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (138) - Copie
+2021-02-18 10:14:05,438 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (137) - Copie
+2021-02-18 10:14:05,440 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (139) - Copie
+2021-02-18 10:14:05,441 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (135) - Copie
+2021-02-18 10:14:05,443 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (148) - Copie
+2021-02-18 10:14:05,444 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (133) - Copie
+2021-02-18 10:14:05,444 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (136) - Copie
+2021-02-18 10:14:05,446 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (131) - Copie
+2021-02-18 10:14:05,447 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (134) - Copie
+2021-02-18 10:14:05,449 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (13) - Copie
+2021-02-18 10:14:05,450 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (132) - Copie
+2021-02-18 10:14:05,452 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (129) - Copie
+2021-02-18 10:14:05,453 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (15) - Copie
+2021-02-18 10:14:05,455 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (130) - Copie
+2021-02-18 10:14:05,455 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (14)
+2021-02-18 10:14:05,457 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (13)
+2021-02-18 10:14:05,458 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (128) - Copie
+2021-02-18 10:14:05,460 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (127) - Copie
+2021-02-18 10:14:05,461 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (126) - Copie
+2021-02-18 10:14:05,464 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (121) - Copie
+2021-02-18 10:14:05,465 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (124) - Copie
+2021-02-18 10:14:05,468 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (12) - Copie
+2021-02-18 10:14:05,469 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (122) - Copie
+2021-02-18 10:14:05,471 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (125) - Copie
+2021-02-18 10:14:05,473 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (120) - Copie
+2021-02-18 10:14:05,474 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (123) - Copie
+2021-02-18 10:14:05,476 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (116) - Copie
+2021-02-18 10:14:05,478 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (115) - Copie
+2021-02-18 10:14:05,479 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (118) - Copie
+2021-02-18 10:14:05,481 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (113) - Copie
+2021-02-18 10:14:05,482 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (12)
+2021-02-18 10:14:05,484 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (119) - Copie
+2021-02-18 10:14:05,485 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (110) - Copie
+2021-02-18 10:14:05,487 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (11) - Copie
+2021-02-18 10:14:05,488 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (112) - Copie
+2021-02-18 10:14:05,490 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (109) - Copie
+2021-02-18 10:14:05,492 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (108) - Copie
+2021-02-18 10:14:05,493 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (117) - Copie
+2021-02-18 10:14:05,495 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (11)
+2021-02-18 10:14:05,495 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (111) - Copie
+2021-02-18 10:14:05,498 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (114) - Copie
+2021-02-18 10:14:05,498 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (107) - Copie
+2021-02-18 10:14:05,500 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (106) - Copie
+2021-02-18 10:14:05,502 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (101) - Copie
+2021-02-18 10:14:05,504 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (10) - Copie
+2021-02-18 10:14:05,505 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (103) - Copie
+2021-02-18 10:14:05,507 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (105) - Copie
+2021-02-18 10:14:05,508 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (99) - Copie - Copie - Copie
+2021-02-18 10:14:05,508 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (104) - Copie
+2021-02-18 10:14:05,511 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (98) - Copie - Copie - Copie
+2021-02-18 10:14:05,512 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (102) - Copie
+2021-02-18 10:14:05,515 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (97) - Copie - Copie - Copie
+2021-02-18 10:14:05,516 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (99) - Copie - Copie
+2021-02-18 10:14:05,518 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (95) - Copie - Copie - Copie
+2021-02-18 10:14:05,519 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (38)
+2021-02-18 10:14:05,521 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (96) - Copie - Copie - Copie
+2021-02-18 10:14:05,522 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (35)
+2021-02-18 10:14:05,523 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (37)
+2021-02-18 10:14:05,531 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (33)
+2021-02-18 10:14:05,533 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (36)
+2021-02-18 10:14:05,534 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (31)
+2021-02-18 10:14:05,535 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (34)
+2021-02-18 10:14:05,536 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (10)
+2021-02-18 10:14:05,538 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (28)
+2021-02-18 10:14:05,539 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (27)
+2021-02-18 10:14:05,541 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (26)
+2021-02-18 10:14:05,542 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (25)
+2021-02-18 10:14:05,544 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (32)
+2021-02-18 10:14:05,545 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie - Copie (100) - Copie
+2021-02-18 10:14:05,547 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (128) - Copie - Copie
+2021-02-18 10:14:05,548 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (127) - Copie - Copie
+2021-02-18 10:14:05,550 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (126) - Copie - Copie - Copie
+2021-02-18 10:14:05,551 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (129) - Copie - Copie
+2021-02-18 10:14:05,553 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (30)
+2021-02-18 10:14:05,554 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (29)
+2021-02-18 10:14:05,556 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (130) - Copie - Copie
+2021-02-18 10:14:05,557 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (126) - Copie - Copie
+2021-02-18 10:14:05,559 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (125) - Copie - Copie - Copie
+2021-02-18 10:14:05,560 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (123) - Copie - Copie
+2021-02-18 10:14:05,561 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (122) - Copie - Copie - Copie
+2021-02-18 10:14:05,563 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (124) - Copie - Copie
+2021-02-18 10:14:05,565 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (121) - Copie - Copie
+2021-02-18 10:14:05,566 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (125) - Copie - Copie
+2021-02-18 10:14:05,568 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (122) - Copie - Copie
+2021-02-18 10:14:05,569 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (120) - Copie - Copie
+2021-02-18 10:14:05,571 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (119) - Copie - Copie - Copie
+2021-02-18 10:14:05,572 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (119) - Copie - Copie
+2021-02-18 10:14:05,574 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (120) - Copie - Copie - Copie
+2021-02-18 10:14:05,575 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (118) - Copie - Copie - Copie
+2021-02-18 10:14:05,576 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (123) - Copie - Copie - Copie
+2021-02-18 10:14:05,578 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (124) - Copie - Copie - Copie
+2021-02-18 10:14:05,580 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (116) - Copie - Copie - Copie
+2021-02-18 10:14:05,581 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (116) - Copie - Copie
+2021-02-18 10:14:05,583 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (117) - Copie - Copie - Copie
+2021-02-18 10:14:05,584 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (115) - Copie - Copie
+2021-02-18 10:14:05,585 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (114) - Copie - Copie - Copie
+2021-02-18 10:14:05,587 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (114) - Copie - Copie
+2021-02-18 10:14:05,588 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (115) - Copie - Copie - Copie
+2021-02-18 10:14:05,590 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (113) - Copie - Copie
+2021-02-18 10:14:05,590 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (117) - Copie - Copie
+2021-02-18 10:14:05,591 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (121) - Copie - Copie - Copie
+2021-02-18 10:14:05,593 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (113) - Copie - Copie - Copie
+2021-02-18 10:14:05,594 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (111) - Copie - Copie - Copie
+2021-02-18 10:14:05,596 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (111) - Copie - Copie
+2021-02-18 10:14:05,597 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (112) - Copie - Copie - Copie
+2021-02-18 10:14:05,599 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (109) - Copie - Copie - Copie
+2021-02-18 10:14:05,600 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (109) - Copie - Copie
+2021-02-18 10:14:05,601 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (108) - Copie - Copie - Copie
+2021-02-18 10:14:05,603 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (112) - Copie - Copie
+2021-02-18 10:14:05,604 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (110) - Copie - Copie
+2021-02-18 10:14:05,605 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (107) - Copie - Copie
+2021-02-18 10:14:05,606 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (106) - Copie - Copie - Copie
+2021-02-18 10:14:05,608 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (108) - Copie - Copie
+2021-02-18 10:14:05,609 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (105) - Copie - Copie - Copie
+2021-02-18 10:14:05,610 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (105) - Copie - Copie
+2021-02-18 10:14:05,611 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (110) - Copie - Copie - Copie
+2021-02-18 10:14:05,614 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (104) - Copie - Copie
+2021-02-18 10:14:05,615 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (107) - Copie - Copie - Copie
+2021-02-18 10:14:05,616 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (118) - Copie - Copie
+2021-02-18 10:14:05,618 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (102) - Copie - Copie - Copie
+2021-02-18 10:14:05,619 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (106) - Copie - Copie
+2021-02-18 10:14:05,620 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (101) - Copie - Copie - Copie
+2021-02-18 10:14:05,622 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (103) - Copie - Copie
+2021-02-18 10:14:05,623 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (104) - Copie - Copie - Copie
+2021-02-18 10:14:05,624 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (102) - Copie - Copie
+2021-02-18 10:14:05,626 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (103) - Copie - Copie - Copie
+2021-02-18 10:14:05,627 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (101) - Copie - Copie
+2021-02-18 10:14:05,629 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (36)
+2021-02-18 10:14:05,630 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (35)
+2021-02-18 10:14:05,631 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (10) - Copie
+2021-02-18 10:14:05,633 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (33)
+2021-02-18 10:14:05,634 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (100) - Copie - Copie - Copie
+2021-02-18 10:14:05,635 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (31)
+2021-02-18 10:14:05,636 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (34)
+2021-02-18 10:14:05,638 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (29)
+2021-02-18 10:14:05,639 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (28)
+2021-02-18 10:14:05,640 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (100) - Copie - Copie
+2021-02-18 10:14:05,641 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (26)
+2021-02-18 10:14:05,642 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier - Copie (10)
+2021-02-18 10:14:05,642 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (32)
+2021-02-18 10:14:05,643 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (27)
+2021-02-18 10:14:05,644 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az
+2021-02-18 10:14:05,644 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (24)
+2021-02-18 10:14:05,645 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (23)
+2021-02-18 10:14:05,646 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (30)
+2021-02-18 10:14:05,647 - root - INFO - logger : 20 - Folder created : MirrorDirectory\az - Copie (25)
+2021-02-18 10:21:04,548 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:21:17,069 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az.txt file az.txt
+2021-02-18 10:22:35,086 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:22:35,115 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az.txt file az.txt
+2021-02-18 10:22:44,990 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:22:45,014 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az.txt file az.txt
+2021-02-18 10:22:53,056 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (10).txt file az - Copie (10).txt
+2021-02-18 10:22:53,066 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (11).txt file az - Copie (11).txt
+2021-02-18 10:22:53,076 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (12).txt file az - Copie (12).txt
+2021-02-18 10:22:53,086 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (13).txt file az - Copie (13).txt
+2021-02-18 10:22:53,096 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (14).txt file az - Copie (14).txt
+2021-02-18 10:22:53,107 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (15).txt file az - Copie (15).txt
+2021-02-18 10:22:53,115 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (16).txt file az - Copie (16).txt
+2021-02-18 10:22:53,124 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (17).txt file az - Copie (17).txt
+2021-02-18 10:22:53,133 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (18).txt file az - Copie (18).txt
+2021-02-18 10:22:53,142 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (19).txt file az - Copie (19).txt
+2021-02-18 10:22:53,151 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).txt file az - Copie (2).txt
+2021-02-18 10:22:53,160 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (20).txt file az - Copie (20).txt
+2021-02-18 10:22:53,169 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (21).txt file az - Copie (21).txt
+2021-02-18 10:22:53,178 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).txt file az - Copie (3).txt
+2021-02-18 10:22:53,212 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4).txt file az - Copie (4).txt
+2021-02-18 10:22:53,222 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5).txt file az - Copie (5).txt
+2021-02-18 10:22:53,232 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (6).txt file az - Copie (6).txt
+2021-02-18 10:22:53,240 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (7).txt file az - Copie (7).txt
+2021-02-18 10:22:53,248 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (8).txt file az - Copie (8).txt
+2021-02-18 10:22:53,257 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (9).txt file az - Copie (9).txt
+2021-02-18 10:22:53,265 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie.txt file az - Copie.txt
+2021-02-18 10:22:57,300 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (22).txt file az - Copie (22).txt
+2021-02-18 10:22:57,310 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (23).txt file az - Copie (23).txt
+2021-02-18 10:22:57,319 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (24).txt file az - Copie (24).txt
+2021-02-18 10:23:17,373 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az.txt
+2021-02-18 10:23:17,376 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (10).txt
+2021-02-18 10:23:17,377 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (11).txt
+2021-02-18 10:23:17,379 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (12).txt
+2021-02-18 10:23:17,381 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (13).txt
+2021-02-18 10:23:17,383 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (14).txt
+2021-02-18 10:23:17,385 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (15).txt
+2021-02-18 10:23:17,386 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (16).txt
+2021-02-18 10:23:17,388 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (17).txt
+2021-02-18 10:23:17,390 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (18).txt
+2021-02-18 10:23:17,392 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (19).txt
+2021-02-18 10:23:17,393 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (2).txt
+2021-02-18 10:23:17,395 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (20).txt
+2021-02-18 10:23:17,397 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (21).txt
+2021-02-18 10:23:17,398 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (3).txt
+2021-02-18 10:23:17,400 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (4).txt
+2021-02-18 10:23:17,402 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (5).txt
+2021-02-18 10:23:17,404 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (6).txt
+2021-02-18 10:23:17,405 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (7).txt
+2021-02-18 10:23:17,407 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (8).txt
+2021-02-18 10:23:17,409 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (9).txt
+2021-02-18 10:23:17,411 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie.txt
+2021-02-18 10:23:17,412 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (22).txt
+2021-02-18 10:23:17,414 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (23).txt
+2021-02-18 10:23:17,416 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\az - Copie (24).txt
+2021-02-18 10:30:51,004 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:32:01,278 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:33:27,768 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:34:09,752 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:35:26,239 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 10:35:26,259 - root - INFO - logger : 20 - Folder created : MirrorDirectory\lol - Copie - Copie
+2021-02-18 10:35:26,260 - root - INFO - logger : 20 - Folder created : MirrorDirectory\lol - Copie
+2021-02-18 10:35:30,265 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\\lol - Copie - Copie
+2021-02-18 10:35:30,267 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\lol - Copie
+2021-02-18 10:35:38,279 - root - INFO - logger : 20 - Folder created : MirrorDirectory\Nouveau dossier
+2021-02-18 11:00:09,729 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:00:18,681 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:04:47,067 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\Nouveau dossier
+2021-02-18 11:05:26,200 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:07:24,157 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:08:52,445 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:09:45,152 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:10:36,938 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:12:42,203 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:12:54,632 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:13:49,041 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:15:25,860 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:18:04,535 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:18:04,551 - root - INFO - logger : 20 - Folder created : MirrorDirectory\op
+2021-02-18 11:18:04,553 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\qa.txt file qa.txt
+2021-02-18 11:19:36,661 - root - INFO - logger : 20 - Folder removed : MirrorDirectory\op
+2021-02-18 11:19:36,663 - root - INFO - logger : 20 - File removed : %sMirrorDirectory\qa.txt
+2021-02-18 11:19:44,082 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2.exe file JetBrains.Rider-2020.3.2.exe
+2021-02-18 11:20:09,264 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie.exe file JetBrains.Rider-2020.3.2 - Copie.exe
+2021-02-18 11:21:40,827 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:24:01,483 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:25:41,073 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:25:41,337 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\enwik8.pmd file enwik8.pmd
+2021-02-18 11:25:55,369 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:26:23,844 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:26:59,410 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:26:59,519 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\enwik8.pmd file enwik8.pmd
+2021-02-18 11:27:03,705 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\enwik8 - Copie (4).pmd file enwik8 - Copie (4).pmd
+2021-02-18 11:27:33,250 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:27:33,417 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\enwik8.pmd file enwik8.pmd
+2021-02-18 11:27:37,520 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\enwik8 - Copie.pmd file enwik8 - Copie.pmd
+2021-02-18 11:33:15,565 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:33:22,543 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2.exe file JetBrains.Rider-2020.3.2.exe
+2021-02-18 11:33:53,009 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie.exe file JetBrains.Rider-2020.3.2 - Copie.exe
+2021-02-18 11:34:33,533 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie (2).exe file JetBrains.Rider-2020.3.2 - Copie (2).exe
+2021-02-18 11:43:52,209 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:43:55,334 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2.exe file JetBrains.Rider-2020.3.2.exe
+2021-02-18 11:44:10,618 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie (2).exe file JetBrains.Rider-2020.3.2 - Copie (2).exe
+2021-02-18 11:45:31,553 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:45:37,512 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie (2).exe file JetBrains.Rider-2020.3.2 - Copie (2).exe
+2021-02-18 11:47:05,182 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:49:06,126 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:49:49,008 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:49:54,808 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie (3) - Copie.exe file JetBrains.Rider-2020.3.2 - Copie (3) - Copie.exe
+2021-02-18 11:50:13,812 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie (3) - Copie - Copie.exe file JetBrains.Rider-2020.3.2 - Copie (3) - Copie - Copie.exe
+2021-02-18 11:50:24,844 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie (4) - Copie - Copie.exe file JetBrains.Rider-2020.3.2 - Copie (4) - Copie - Copie.exe
+2021-02-18 11:51:08,517 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie (5) - Copie - Copie.exe file JetBrains.Rider-2020.3.2 - Copie (5) - Copie - Copie.exe
+2021-02-18 11:51:25,371 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie (3) - Copie - Copie - Copie.exe file JetBrains.Rider-2020.3.2 - Copie (3) - Copie - Copie - Copie.exe
+2021-02-18 11:52:02,996 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:52:24,298 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:52:27,473 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie (3) - Copie - Copie - Copie.exe file JetBrains.Rider-2020.3.2 - Copie (3) - Copie - Copie - Copie.exe
+2021-02-18 11:53:25,108 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:54:33,304 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:54:37,181 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie (5) - Copie - Copie.exe file JetBrains.Rider-2020.3.2 - Copie (5) - Copie - Copie.exe
+2021-02-18 11:57:41,296 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:57:45,370 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie (7) - Copie - Copie - Copie.exe file JetBrains.Rider-2020.3.2 - Copie (7) - Copie - Copie - Copie.exe
+2021-02-18 11:57:58,237 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 11:58:01,653 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie (8) - Copie - Copie - Copie.exe file JetBrains.Rider-2020.3.2 - Copie (8) - Copie - Copie - Copie.exe
+2021-02-18 12:00:14,532 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:00:18,509 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\JetBrains.Rider-2020.3.2 - Copie (7) - Copie - Copie - Copie.exe file JetBrains.Rider-2020.3.2 - Copie (7) - Copie - Copie - Copie.exe
+2021-02-18 12:01:26,286 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:02:07,990 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:04:52,156 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:05:05,471 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:05:43,088 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:08:49,575 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:09:04,143 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:10:10,457 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:21:09,026 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:21:09,122 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie.rtf file az - Copie.rtf
+2021-02-18 12:21:57,226 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:21:57,244 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az.rtf file az.rtf
+2021-02-18 12:21:57,252 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie.rtf file az - Copie.rtf
+2021-02-18 12:21:57,260 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (9).rtf file az - Copie (9).rtf
+2021-02-18 12:21:57,278 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (8).rtf file az - Copie (8).rtf
+2021-02-18 12:21:57,286 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (7).rtf file az - Copie (7).rtf
+2021-02-18 12:21:57,294 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (6).rtf file az - Copie (6).rtf
+2021-02-18 12:21:57,302 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5).rtf file az - Copie (5).rtf
+2021-02-18 12:21:57,310 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4).rtf file az - Copie (4).rtf
+2021-02-18 12:21:57,319 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:21:57,327 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:21:57,334 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (12).rtf file az - Copie (12).rtf
+2021-02-18 12:21:57,342 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (11).rtf file az - Copie (11).rtf
+2021-02-18 12:21:57,350 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (10).rtf file az - Copie (10).rtf
+2021-02-18 12:22:27,734 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:22:54,477 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:22:54,503 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (9).rtf file az - Copie (9).rtf
+2021-02-18 12:23:32,498 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:25:47,493 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:25:47,518 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:26:29,819 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:26:29,841 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:26:37,367 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:26:37,393 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:26:37,396 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:27:12,179 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:27:12,205 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:27:12,209 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:27:20,613 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:27:20,639 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:27:20,644 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:27:51,280 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:27:51,309 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:27:51,312 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:28:03,348 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:28:03,349 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2) - Copie.rtf file az - Copie (2) - Copie.rtf
+2021-02-18 12:30:03,260 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:30:03,287 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2) - Copie.rtf file az - Copie (2) - Copie.rtf
+2021-02-18 12:30:03,295 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:30:03,295 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4) - Copie.rtf file az - Copie (4) - Copie.rtf
+2021-02-18 12:30:13,451 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:30:13,476 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:30:13,478 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:30:13,487 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:30:13,487 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3) - Copie.rtf file az - Copie (3) - Copie.rtf
+2021-02-18 12:30:56,379 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:30:56,411 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:30:56,422 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:30:56,424 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3) - Copie.rtf file az - Copie (3) - Copie.rtf
+2021-02-18 12:30:56,436 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2) - Copie.rtf file az - Copie (2) - Copie.rtf
+2021-02-18 12:30:56,439 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:31:09,398 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:31:09,424 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:31:09,426 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4) - Copie.rtf file az - Copie (4) - Copie.rtf
+2021-02-18 12:31:09,430 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:31:09,432 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3) - Copie.rtf file az - Copie (3) - Copie.rtf
+2021-02-18 12:31:27,713 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:31:27,736 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:31:27,739 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4) - Copie.rtf file az - Copie (4) - Copie.rtf
+2021-02-18 12:31:27,741 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3) - Copie.rtf file az - Copie (3) - Copie.rtf
+2021-02-18 12:31:27,743 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:31:37,369 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:31:37,394 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:31:37,400 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:31:37,400 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4) - Copie.rtf file az - Copie (4) - Copie.rtf
+2021-02-18 12:31:37,402 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2) - Copie.rtf file az - Copie (2) - Copie.rtf
+2021-02-18 12:33:33,509 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:33:33,532 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:33:33,536 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3) - Copie.rtf file az - Copie (3) - Copie.rtf
+2021-02-18 12:33:33,538 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4) - Copie.rtf file az - Copie (4) - Copie.rtf
+2021-02-18 12:33:33,539 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:34:55,394 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:34:55,417 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:34:55,423 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:34:55,423 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3) - Copie.rtf file az - Copie (3) - Copie.rtf
+2021-02-18 12:34:55,423 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4) - Copie.rtf file az - Copie (4) - Copie.rtf
+2021-02-18 12:35:10,491 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:35:10,516 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:35:10,519 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:35:10,521 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4) - Copie.rtf file az - Copie (4) - Copie.rtf
+2021-02-18 12:35:49,886 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:35:49,919 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:35:49,924 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3) - Copie.rtf file az - Copie (3) - Copie.rtf
+2021-02-18 12:35:49,926 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4) - Copie.rtf file az - Copie (4) - Copie.rtf
+2021-02-18 12:37:24,412 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:37:24,436 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:37:24,439 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3) - Copie.rtf file az - Copie (3) - Copie.rtf
+2021-02-18 12:38:56,858 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:38:56,885 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4) - Copie.rtf file az - Copie (4) - Copie.rtf
+2021-02-18 12:38:56,887 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:38:56,890 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3) - Copie.rtf file az - Copie (3) - Copie.rtf
+2021-02-18 12:39:11,451 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:39:11,477 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:39:11,483 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:39:11,485 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:40:03,703 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:40:03,726 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:40:03,730 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4) - Copie.rtf file az - Copie (4) - Copie.rtf
+2021-02-18 12:40:03,733 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2) - Copie.rtf file az - Copie (2) - Copie.rtf
+2021-02-18 12:40:03,734 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:40:03,735 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:40:30,810 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:40:30,834 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:40:30,837 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2) - Copie.rtf file az - Copie (2) - Copie.rtf
+2021-02-18 12:40:30,839 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3) - Copie.rtf file az - Copie (3) - Copie.rtf
+2021-02-18 12:40:51,844 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:40:51,907 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:40:51,910 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4) - Copie.rtf file az - Copie (4) - Copie.rtf
+2021-02-18 12:41:20,706 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:41:20,771 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:41:20,773 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4) - Copie.rtf file az - Copie (4) - Copie.rtf
+2021-02-18 12:42:37,089 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:42:37,112 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:42:37,115 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (4) - Copie.rtf file az - Copie (4) - Copie.rtf
+2021-02-18 12:42:37,117 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf
+2021-02-18 12:45:07,166 - root - INFO - logger : 20 - Valid parameters
+2021-02-18 12:45:07,188 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (5) - Copie.rtf file az - Copie (5) - Copie.rtf
+2021-02-18 12:45:07,189 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3).rtf file az - Copie (3).rtf
+2021-02-18 12:45:07,191 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (3) - Copie.rtf file az - Copie (3) - Copie.rtf
+2021-02-18 12:45:07,194 - root - INFO - logger : 20 - File created / updated : srv MirrorDirectory\az - Copie (2).rtf file az - Copie (2).rtf

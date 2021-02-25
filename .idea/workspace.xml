@@ -145,7 +145,7 @@
       <workItem from="1613651036990" duration="1794000" />
       <workItem from="1613657404565" duration="2902000" />
       <workItem from="1613749108212" duration="1688000" />
-      <workItem from="1614244801802" duration="908000" />
+      <workItem from="1614244801802" duration="2542000" />
     </task>
     <servers />
   </component>
@@ -234,6 +234,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613636458050" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1614247623831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614247623831" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -52,7 +52,7 @@ def ThingModified(self, listAllThingModified, lock, ftp_website):
                     try:
                         ftp.file_transfer(*elem[2:])
                     except:
-                        print('\033[33m' + "Cannot create file")
+                        print('\033[33m' + "Cannot create file " + elem[2])
                 # if we have to delete the file
                 elif elem[1] == "delete":
                     try:

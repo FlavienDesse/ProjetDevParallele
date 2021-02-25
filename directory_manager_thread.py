@@ -30,7 +30,6 @@ def ThingModified(self, listAllThingModified, lock, ftp_website):
             except:
                 break
 
-
         ftp = TalkToFTP(ftp_website)
 
         if elem:
@@ -69,6 +68,7 @@ def ThingModified(self, listAllThingModified, lock, ftp_website):
                     try:
                         path = Path(elem[2])
                         error = False
+                        # Verify that all parent exists
                         while path != path.parent:
                             if not os.path.exists(path.parent):
                                 error = True

@@ -84,6 +84,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ProjetDevParallele" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +144,8 @@
       <workItem from="1613650950715" duration="73000" />
       <workItem from="1613651036990" duration="1794000" />
       <workItem from="1613657404565" duration="2902000" />
-      <workItem from="1613749108212" duration="1535000" />
+      <workItem from="1613749108212" duration="1688000" />
+      <workItem from="1614244801802" duration="908000" />
     </task>
     <servers />
   </component>
@@ -178,25 +190,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613634250947" />
-    <state width="1877" height="333" key="GridCell.Tab.0.bottom" timestamp="1613750632065">
+    <state width="1877" height="333" key="GridCell.Tab.0.bottom" timestamp="1613750812594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613750632065" />
+    <state width="1877" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613750812594" />
     <state width="2517" height="401" key="GridCell.Tab.0.bottom/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613672936787" />
-    <state width="1877" height="333" key="GridCell.Tab.0.center" timestamp="1613750632065">
+    <state width="1877" height="333" key="GridCell.Tab.0.center" timestamp="1613750812593">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="333" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613750632065" />
+    <state width="1877" height="333" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613750812593" />
     <state width="2517" height="401" key="GridCell.Tab.0.center/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613672936786" />
-    <state width="1877" height="333" key="GridCell.Tab.0.left" timestamp="1613750632065">
+    <state width="1877" height="333" key="GridCell.Tab.0.left" timestamp="1613750812593">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="333" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613750632064" />
+    <state width="1877" height="333" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613750812593" />
     <state width="2517" height="401" key="GridCell.Tab.0.left/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613672936786" />
-    <state width="1877" height="333" key="GridCell.Tab.0.right" timestamp="1613750632065">
+    <state width="1877" height="333" key="GridCell.Tab.0.right" timestamp="1613750812594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="333" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613750632065" />
+    <state width="1877" height="333" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613750812594" />
     <state width="2517" height="401" key="GridCell.Tab.0.right/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1613672936787" />
     <state width="2517" height="451" key="GridCell.Tab.1.bottom" timestamp="1613672040015">
       <screen x="0" y="0" width="2560" height="1400" />

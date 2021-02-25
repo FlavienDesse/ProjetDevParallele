@@ -3,15 +3,15 @@ import os
 from pathlib import Path
 import time
 import traceback
+
 _TIME_SLEEP = 0.002
 
 
-def thingModified(self, listAllThingModified, lock, ftp_website):
+def ThingModified(self, listAllThingModified, lock, ftp_website):
     while listAllThingModified:
         with lock:
             try:
                 elem = listAllThingModified.pop()
-                # print(elem)
             except:
                 break
 
@@ -25,7 +25,7 @@ def thingModified(self, listAllThingModified, lock, ftp_website):
                         ftp.remove_file(elem[3])
                         ftp.file_transfer(*elem[2:])
                     except:
-                        print('\033[33m' + "Cannot update and create file")
+                        print('\033[33m' + "Cannot update and create " + elem[2])
                 elif elem[1] == "create":
                     try:
                         ftp.file_transfer(*elem[2:])
@@ -36,7 +36,7 @@ def thingModified(self, listAllThingModified, lock, ftp_website):
                     try:
                         ftp.remove_file(elem[2])
                     except:
-                        print('\033[33m' + "Cannot delete file")
+                        print('\033[33m' + "Cannot delete file" + elem[2])
                         traceback.print_exc()
 
             else:
@@ -57,7 +57,7 @@ def thingModified(self, listAllThingModified, lock, ftp_website):
                             time.sleep(_TIME_SLEEP)
                             listAllThingModified.insert(0, elem)
                     except:
-                        print('\033[33m' + "Cannot create dir")
+                        print('\033[33m' + "Cannot create dir" + elem[2])
 
                 elif elem[1] == "delete":
                     try:
@@ -67,6 +67,6 @@ def thingModified(self, listAllThingModified, lock, ftp_website):
                             time.sleep(_TIME_SLEEP)
                             listAllThingModified.insert(0, elem)
                     except:
-                        print('\033[33m' + "Cannot delete dir")
+                        print('\033[33m' + "Cannot delete dir" + elem[2])
 
             ftp.disconnect()

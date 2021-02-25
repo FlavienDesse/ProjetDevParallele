@@ -65,7 +65,7 @@ class DirectoryManager:
 
             lock = threading.Lock()
             for thread in range(self.nb_multi):
-                t = threading.Thread(target=directory_manager_thread.thingModified,
+                t = threading.Thread(target=directory_manager_thread.ThingModified,
                                      args=(self, self.listAllThingModified, lock,self.ftp_website))
                 self.all_thread.append(t)
                 t.start()

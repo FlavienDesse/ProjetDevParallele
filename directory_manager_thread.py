@@ -46,6 +46,7 @@ def ThingModified(self, listAllThingModified, lock, ftp_website):
                         ftp.file_transfer(*elem[2:])
                     except:
                         print('\033[33m' + "Cannot update and create " + elem[2])
+                        traceback.print_exc()
 
                 # if we have to create the file
                 elif elem[1] == "create":
@@ -53,6 +54,7 @@ def ThingModified(self, listAllThingModified, lock, ftp_website):
                         ftp.file_transfer(*elem[2:])
                     except:
                         print('\033[33m' + "Cannot create file " + elem[2])
+                        traceback.print_exc()
                 # if we have to delete the file
                 elif elem[1] == "delete":
                     try:
@@ -81,6 +83,7 @@ def ThingModified(self, listAllThingModified, lock, ftp_website):
                             listAllThingModified.insert(0, elem)
                     except:
                         print('\033[33m' + "Cannot create dir" + elem[2])
+                        traceback.print_exc()
                 # if we have to delete the directory
                 elif elem[1] == "delete":
                     try:
@@ -91,5 +94,6 @@ def ThingModified(self, listAllThingModified, lock, ftp_website):
                             listAllThingModified.insert(0, elem)
                     except:
                         print('\033[33m' + "Cannot delete dir" + elem[2])
+                        traceback.print_exc()
 
             ftp.disconnect()
